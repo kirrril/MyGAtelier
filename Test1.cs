@@ -1,4 +1,4 @@
 static void Main(string[] args)
 {
-  Console.WriteLine("Hello Kitty!");
+  Console.WriteLine("Hello people!");
 }
